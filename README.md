@@ -45,6 +45,3 @@ Atuo principalmente com desenvolvimento Back-End em .NET e criação de interfac
 
 </div>
 
-
-
-É só pedir!
