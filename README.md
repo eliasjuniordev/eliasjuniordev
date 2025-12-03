@@ -1,5 +1,5 @@
-Sou desenvolvedor com experiência em aplicações Web utilizando tecnologias Microsoft e Front-End moderno.  
-Atuo principalmente com desenvolvimento Back-End em .NET e criação de interfaces responsivas e dinâmicas.
+Sou desenvolvedor fullsatck com experiência em aplicações Web utilizando tecnologias Microsoft e Front-End Angular.  
+
 
 ---
 
